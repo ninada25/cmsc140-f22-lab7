@@ -1,0 +1,3 @@
+import panda as pd
+
+temps = pd.read_csv("city_temperature.csv", sep = ",")
